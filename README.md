@@ -27,6 +27,8 @@ $block = $blockchain->mine('miner-address');
 var_dump($block->hash);
 ```
 
+For more information about Blockchain, please watch [this video](https://www.youtube.com/watch?v=93E_GzvpMA0).
+
 ## Testing
 
 You will need an install of [Composer](https://getcomposer.org/) before continuing.
